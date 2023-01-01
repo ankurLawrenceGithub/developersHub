@@ -8,3 +8,6 @@ print("hello")
   
 print("done")
 
+def develop(a,b):
+  print(a+b)
+  
